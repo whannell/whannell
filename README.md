@@ -1,4 +1,4 @@
- <p align="center"> ![leigh-whannel-saw-2004](https://github.com/user-attachments/assets/d46fe31a-1e98-4421-bdf7-bd825c2003b6)
+ ![leigh-whannel-saw-2004](https://github.com/user-attachments/assets/d46fe31a-1e98-4421-bdf7-bd825c2003b6)
 
 me
 <!--
