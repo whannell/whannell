@@ -1,4 +1,4 @@
-## Hi there 👋
+![Screenshot 2024-10-11 113051](https://github.com/user-attachments/assets/a715d0f2-c769-4a91-9989-ed7eaa0c951e)
 
 <!--
 **whannells/whannells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
