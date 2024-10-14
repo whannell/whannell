@@ -1,5 +1,5 @@
-![Screenshot 2024-10-11 113051](https://github.com/user-attachments/assets/a715d0f2-c769-4a91-9989-ed7eaa0c951e)
-do whateva
+![leigh-whannel-saw-2004](https://github.com/user-attachments/assets/d46fe31a-1e98-4421-bdf7-bd825c2003b6)
+
 <!--
 **whannells/whannells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
