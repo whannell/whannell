@@ -2,5 +2,6 @@
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/b55412db-75d4-4c97-a029-73ea021e76bb" width="500" height="300">
   
-<p align="center"> $${\color{red}This what they do, man. They kidnap you, then drug you and before you know it, you're in a bathtub and your kidneys are on eBay
+<p align="center"> $${\color{red}his what they do, man. They kidnap you, then drug you and before you know it, you're in a bathtub and your kidneys are on eBay}$$
+
 
