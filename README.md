@@ -1,6 +1,6 @@
 
 
-<p align="center"> <img src="https://64.media.tumblr.com/a67d78ad9e9e74b1af91f3c714d89d82/4f40fffbd10aa8db-2d/s1280x1920/b438ae39e04bf821d897f21f62496b136cfe8db0.gifv"
+<p align="center"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tumbex.com%2Fghostgib.tumblr%2Fposts%3Ftag%3Dadam%2Bfaulkner%2Bstanheight&psig=AOvVaw06bLETexU37RdYuWv_rXiH&ust=1729065376107000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNiz8c30j4kDFQAAAAAdAAAAABBv"
 
 
 <!--
