@@ -1,6 +1,6 @@
 
 
-<p align="center"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tumbex.com%2Fghostgib.tumblr%2Fposts%3Ftag%3Dadam%2Bfaulkner%2Bstanheight&psig=AOvVaw06bLETexU37RdYuWv_rXiH&ust=1729065376107000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNiz8c30j4kDFQAAAAAdAAAAABBv"
+<p align="center"> <img src=""
 
 
 <!--
