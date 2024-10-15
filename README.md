@@ -1,7 +1,4 @@
 
-  
- 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=whannells&label=profile%20views!&color=fce144&style=flat"
 
 <p align="center"> <img src="https://64.media.tumblr.com/a67d78ad9e9e74b1af91f3c714d89d82/4f40fffbd10aa8db-2d/s540x810/2b073bb6ec3687b3264a221b768c552dbf918998.gifv" width="200" height="200">
 
