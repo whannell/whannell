@@ -4,6 +4,7 @@
   
 <p align="center"> This what they do, man. They kidnap you, then drug you and before you know it, you're in a bathtub and your kidneys are on eBay.</code> 
 
+<code style="color:red">text<code>
 <!--
 **whannells/whannells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
