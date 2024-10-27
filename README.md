@@ -6,6 +6,4 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tjforkm2qskz4yab6uye6ggem4&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=ff0000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/a50a2b6e-4c1a-4d34-a489-79f05cbd06a8" width="300" height="200">
 
-<p align="center"> me and bab
