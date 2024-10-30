@@ -1,3 +1,4 @@
+![](https://github.com/user-attachments/assets/9430eaa9-11a7-4d8f-87c4-a400c8319419) ![](https://github.com/user-attachments/assets/2e07b9e5-869a-4e33-8553-8c08c2b6a139) ![](https://github.com/user-attachments/assets/4145af98-4cc3-4d14-a122-635e0e63e59a) ![](https://github.com/user-attachments/assets/09c21ab0-e0e5-4dc7-b3e1-fddb7f8f851e) ![.](https://github.com/user-attachments/assets/ab9dce51-333f-4ab9-b223-d0d18367af56) ![.](https://github.com/user-attachments/assets/9461494b-7041-49b3-9904-a143c0e3a431) ![.](https://github.com/user-attachments/assets/e01fb688-b3b9-43f3-80cf-5bafecfab052) ![.](https://github.com/user-attachments/assets/ee718a5d-4b78-48e6-a301-07bc88bc1b00) ![.](https://github.com/user-attachments/assets/6f5943c4-cb78-44b7-9467-28f68d5f3915)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=whannells&label=profile%20views!&color=fe0914&style=flat"  </p>
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/b55412db-75d4-4c97-a029-73ea021e76bb" width="500" height="300">
@@ -6,4 +7,4 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tjforkm2qskz4yab6uye6ggem4&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=ff0000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-
+![.](https://github.com/user-attachments/assets/72d5fbae-2634-4518-b99f-ccf01def026e) ![.](https://github.com/user-attachments/assets/1f8609f6-fd1f-4d19-ba8b-65f6448d8176) ![.](https://github.com/user-attachments/assets/1ebcc32a-1b89-4e9b-a48c-42e66b6b968b) ![.](https://github.com/user-attachments/assets/2ce4711f-c358-4e55-9532-a43ffdc264c8) ![.](https://github.com/user-attachments/assets/ab142b9c-55bc-4f5e-af67-e9edebe884c7)  ![.](https://github.com/user-attachments/assets/77ef0c7e-98b5-4a4d-a702-a34a30204ee8) ![.](https://github.com/user-attachments/assets/c5c0163c-0362-4dcc-b1e6-8ceb20ce1147) ![.](https://github.com/user-attachments/assets/ce81ba32-dd61-497c-af2f-4723be9e8aab) ![](https://github.com/user-attachments/assets/42b5114e-8f12-463e-b21d-b2cbf9a2ca9a) 
