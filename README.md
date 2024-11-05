@@ -1,5 +1,5 @@
 ![](https://github.com/user-attachments/assets/9430eaa9-11a7-4d8f-87c4-a400c8319419) ![](https://github.com/user-attachments/assets/2e07b9e5-869a-4e33-8553-8c08c2b6a139) ![](https://github.com/user-attachments/assets/4145af98-4cc3-4d14-a122-635e0e63e59a) ![](https://github.com/user-attachments/assets/09c21ab0-e0e5-4dc7-b3e1-fddb7f8f851e) ![.](https://github.com/user-attachments/assets/ab9dce51-333f-4ab9-b223-d0d18367af56) ![.](https://github.com/user-attachments/assets/9461494b-7041-49b3-9904-a143c0e3a431) ![.](https://github.com/user-attachments/assets/e01fb688-b3b9-43f3-80cf-5bafecfab052) ![.](https://github.com/user-attachments/assets/ee718a5d-4b78-48e6-a301-07bc88bc1b00)
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=whannells&label=profile%20views!&color=fe0914&style=flat"  </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=whannells&label=things%20!&color=fe0914&style=flat"  </p>
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/b55412db-75d4-4c97-a029-73ea021e76bb" width="500" height="300">
   
