@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://64.media.tumblr.com/57b56d9dd5358b7250df65ebf97a3d79/e638e7e649f93242-03/s400x600/be5c460c83f467183d349af75a1895568b9fb0ee.gifv" width="1000" height="100">
+<p align="center"> <img src="https://gifcity.carrd.co/assets/images/gallery39/c81a92f4.gif?v=47652796" width="1000" height="50">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=whannells&label=stalkers%20&color=fe0914&style=flat"  </p>
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/b55412db-75d4-4c97-a029-73ea021e76bb" width="500" height="300">
@@ -7,5 +7,5 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tjforkm2qskz4yab6uye6ggem4&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=ff0000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<p align="center"> <img src="https://64.media.tumblr.com/57b56d9dd5358b7250df65ebf97a3d79/e638e7e649f93242-03/s400x600/be5c460c83f467183d349af75a1895568b9fb0ee.gifv" width="1000" height="100">
+<p align="center"> <img src="https://gifcity.carrd.co/assets/images/gallery39/c81a92f4.gif?v=47652796" width="1000" height="50">
 
